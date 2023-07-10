@@ -3,7 +3,7 @@
   body{ margin: auto;
   padding: 0;
 height: 100vh;
-width: 1350px;
+width: 100%;
 position: static;
 background-attachment: fixed;
 font-family: poppins;}
